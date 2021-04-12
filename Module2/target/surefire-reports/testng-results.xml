@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-07T02:51:47Z" name="Surefire suite" finished-at="2021-04-07T02:51:47Z" duration-ms="69">
+    <groups>
+    </groups>
+    <test started-at="2021-04-07T02:51:47Z" name="Surefire test" finished-at="2021-04-07T02:51:47Z" duration-ms="69">
+      <class name="com.example.MathDemoTest">
+        <test-method signature="testAdd()[pri:0, instance:com.example.MathDemoTest@3533df16]" started-at="2021-04-07T02:51:47Z" name="testAdd" finished-at="2021-04-07T02:51:47Z" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd -->
+        <test-method signature="testMultification()[pri:0, instance:com.example.MathDemoTest@3533df16]" started-at="2021-04-07T02:51:47Z" name="testMultification" finished-at="2021-04-07T02:51:47Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultification -->
+        <test-method signature="testSubtract()[pri:0, instance:com.example.MathDemoTest@3533df16]" started-at="2021-04-07T02:51:47Z" name="testSubtract" finished-at="2021-04-07T02:51:47Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubtract -->
+      </class> <!-- com.example.MathDemoTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

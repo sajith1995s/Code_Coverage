@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-07T02:51:44Z" name="Surefire suite" finished-at="2021-04-07T02:51:44Z" duration-ms="62">
+    <groups>
+    </groups>
+    <test started-at="2021-04-07T02:51:44Z" name="Surefire test" finished-at="2021-04-07T02:51:44Z" duration-ms="62">
+      <class name="com.example.Test1">
+        <test-method signature="whenEmptyString_thenAccept()[pri:0, instance:com.example.Test1@4ad3d266]" started-at="2021-04-07T02:51:44Z" name="whenEmptyString_thenAccept" finished-at="2021-04-07T02:51:44Z" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- whenEmptyString_thenAccept -->
+        <test-method signature="whenPalindrom_thenAccept()[pri:0, instance:com.example.Test1@4ad3d266]" started-at="2021-04-07T02:51:44Z" name="whenPalindrom_thenAccept" finished-at="2021-04-07T02:51:44Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- whenPalindrom_thenAccept -->
+        <test-method signature="whenNearPalindrom_thanReject()[pri:0, instance:com.example.Test1@4ad3d266]" started-at="2021-04-07T02:51:44Z" name="whenNearPalindrom_thanReject" finished-at="2021-04-07T02:51:44Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- whenNearPalindrom_thanReject -->
+      </class> <!-- com.example.Test1 -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
